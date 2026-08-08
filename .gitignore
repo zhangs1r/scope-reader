@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+scripts/*.py
+paper.md
+paper_original.md
+scope-paper.pdf
+assets/*.jpg

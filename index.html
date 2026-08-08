@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>SCoPE 论文跟读 · Paper Echo</title>
+<link rel="stylesheet" href="css/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔊</text></svg>">
+</head>
+<body>
+
+<header class="app-header">
+  <div class="header-top">
+    <div class="brand">
+      <h1>SCoPE 论文跟读</h1>
+      <p class="sub">Paper Echo · IAI 2026 Oral 准备 · 123 句 · 118 生词</p>
+    </div>
+    <div class="header-actions">
+      <button id="themeBtn" class="icon-btn" title="深浅色切换">🌙</button>
+      <button id="reviewBtn" class="icon-btn" title="生词复习本">📒</button>
+    </div>
+  </div>
+  <div class="progress-wrap">
+    <div class="progress-bar" id="progressBar"><i></i></div>
+    <span class="progress-text" id="progressText">0 / 123</span>
+  </div>
+  <div class="toolbar">
+    <button id="playAllBtn" class="tool-btn">▶ 连播</button>
+    <button id="speedBtn" class="tool-btn">速度 1.0x</button>
+    <button id="shuffleBtn" class="tool-btn">🎲 随机抽句</button>
+    <button id="modeBtn" class="tool-btn">朗读模式</button>
+  </div>
+</header>
+
+<main id="sentList" class="sent-list"></main>
+
+<nav class="bottom-nav">
+  <button id="prevBtn" class="nav-btn">↑ 上句</button>
+  <span id="curPos" class="nav-pos">1 / 123</span>
+  <button id="nextBtn" class="nav-btn">下句 ↓</button>
+</nav>
+
+<!-- 单词详解弹层 -->
+<div class="modal-mask" id="wordMask"></div>
+<div class="word-modal" id="wordModal">
+  <div class="wm-head">
+    <span class="wm-word" id="wmWord">word</span>
+    <span class="wm-phonetic" id="wmPhonetic">/.../</span>
+    <button id="wmSay" class="say-btn" title="朗读单词">🔊</button>
+    <button id="wmClose" class="close-btn">✕</button>
+  </div>
+  <div class="wm-body" id="wmBody"></div>
+</div>
+
+<!-- 复习本弹层 -->
+<div class="modal-mask" id="reviewMask"></div>
+<div class="word-modal" id="reviewModal">
+  <div class="wm-head">
+    <span class="wm-word">生词复习本</span>
+    <button id="rvExport" class="say-btn" title="导出生词表">⬇ 导出</button>
+    <button id="rvClose" class="close-btn">✕</button>
+  </div>
+  <div class="wm-body" id="rvBody"></div>
+</div>
+
+<script src="js/app.js"></script>
+</body>
+</html>

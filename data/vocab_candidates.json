@@ -1,0 +1,6157 @@
+[
+ {
+  "word": "extraction",
+  "cefr": "外",
+  "count": 34,
+  "sents": [
+   6,
+   8,
+   12,
+   17,
+   20,
+   24,
+   25,
+   28,
+   30,
+   35,
+   36,
+   37,
+   43,
+   51,
+   54,
+   63,
+   67,
+   76,
+   79,
+   81,
+   83,
+   84,
+   85,
+   88,
+   98,
+   102,
+   108,
+   109,
+   111,
+   117,
+   118,
+   120
+  ],
+  "abbr": false
+ },
+ {
+  "word": "framework",
+  "cefr": "外",
+  "count": 21,
+  "sents": [
+   12,
+   17,
+   18,
+   20,
+   21,
+   31,
+   35,
+   47,
+   50,
+   81,
+   89,
+   97,
+   99,
+   113,
+   115,
+   116,
+   118,
+   119,
+   120,
+   122
+  ],
+  "abbr": false
+ },
+ {
+  "word": "fields",
+  "cefr": "外",
+  "count": 17,
+  "sents": [
+   28,
+   53,
+   54,
+   55,
+   57,
+   62,
+   64,
+   66,
+   76,
+   92,
+   94,
+   98,
+   103,
+   109,
+   111,
+   118,
+   120
+  ],
+  "abbr": false
+ },
+ {
+  "word": "that",
+  "cefr": 4,
+  "count": 16,
+  "sents": [
+   15,
+   16,
+   17,
+   55,
+   58,
+   61,
+   63,
+   68,
+   86,
+   93,
+   98,
+   104,
+   108,
+   117
+  ],
+  "abbr": false
+ },
+ {
+  "word": "data",
+  "cefr": 4,
+  "count": 14,
+  "sents": [
+   7,
+   18,
+   19,
+   21,
+   23,
+   25,
+   31,
+   32,
+   55,
+   63,
+   91,
+   98,
+   122,
+   123
+  ],
+  "abbr": false
+ },
+ {
+  "word": "models",
+  "cefr": "外",
+  "count": 14,
+  "sents": [
+   3,
+   8,
+   10,
+   15,
+   36,
+   37,
+   40,
+   88,
+   89,
+   91,
+   92,
+   104,
+   110,
+   121
+  ],
+  "abbr": false
+ },
+ {
+  "word": "prompt",
+  "cefr": 4,
+  "count": 14,
+  "sents": [
+   13,
+   50,
+   99,
+   102,
+   103,
+   105,
+   107,
+   109,
+   114,
+   115
+  ],
+  "abbr": false
+ },
+ {
+  "word": "unstructured",
+  "cefr": "外",
+  "count": 11,
+  "sents": [
+   5,
+   6,
+   13,
+   17,
+   23,
+   35,
+   50,
+   82,
+   98,
+   118,
+   119
+  ],
+  "abbr": false
+ },
+ {
+  "word": "core",
+  "cefr": 4,
+  "count": 10,
+  "sents": [
+   6,
+   29,
+   38,
+   53,
+   64,
+   72,
+   83,
+   109,
+   111,
+   118
+  ],
+  "abbr": false
+ },
+ {
+  "word": "evaluation",
+  "cefr": 4,
+  "count": 10,
+  "sents": [
+   16,
+   21,
+   30,
+   31,
+   36,
+   62,
+   63,
+   66,
+   79,
+   113
+  ],
+  "abbr": false
+ },
+ {
+  "word": "mathrm",
+  "cefr": "外",
+  "count": 10,
+  "sents": [
+   27,
+   33,
+   74,
+   77,
+   78,
+   90,
+   102,
+   112
+  ],
+  "abbr": false
+ },
+ {
+  "word": "acid",
+  "cefr": 4,
+  "count": 9,
+  "sents": [
+   85,
+   86,
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "comprehensive",
+  "cefr": 4,
+  "count": 9,
+  "sents": [
+   16,
+   31,
+   40,
+   75,
+   78,
+   79,
+   90,
+   98,
+   120
+  ],
+  "abbr": false
+ },
+ {
+  "word": "english",
+  "cefr": "外",
+  "count": 9,
+  "sents": [
+   27,
+   29,
+   53,
+   64,
+   67,
+   87,
+   96,
+   109
+  ],
+  "abbr": false
+ },
+ {
+  "word": "llms",
+  "cefr": "外",
+  "count": 9,
+  "sents": [
+   8,
+   9,
+   11,
+   12,
+   20,
+   70,
+   88,
+   93,
+   119
+  ],
+  "abbr": false
+ },
+ {
+  "word": "structured",
+  "cefr": "外",
+  "count": 9,
+  "sents": [
+   9,
+   12,
+   18,
+   19,
+   30,
+   45,
+   104,
+   122,
+   123
+  ],
+  "abbr": false
+ },
+ {
+  "word": "mass",
+  "cefr": 4,
+  "count": 8,
+  "sents": [
+   29,
+   53,
+   64,
+   67,
+   87,
+   92,
+   109
+  ],
+  "abbr": false
+ },
+ {
+  "word": "molecular",
+  "cefr": "外",
+  "count": 8,
+  "sents": [
+   29,
+   53,
+   64,
+   67,
+   87,
+   92,
+   109
+  ],
+  "abbr": false
+ },
+ {
+  "word": "output",
+  "cefr": 4,
+  "count": 8,
+  "sents": [
+   31,
+   37,
+   59,
+   87,
+   95,
+   104,
+   113
+  ],
+  "abbr": false
+ },
+ {
+  "word": "cas",
+  "cefr": "外",
+  "count": 7,
+  "sents": [
+   29,
+   53,
+   64,
+   65,
+   87,
+   92,
+   109
+  ],
+  "abbr": false
+ },
+ {
+  "word": "entity",
+  "cefr": "外",
+  "count": 7,
+  "sents": [
+   29,
+   32,
+   33,
+   34,
+   49,
+   64,
+   79
+  ],
+  "abbr": false
+ },
+ {
+  "word": "processing",
+  "cefr": "外",
+  "count": 7,
+  "sents": [
+   10,
+   52,
+   56,
+   82,
+   96,
+   99
+  ],
+  "abbr": false
+ },
+ {
+  "word": "based",
+  "cefr": "外",
+  "count": 6,
+  "sents": [
+   12,
+   20,
+   38,
+   63,
+   73,
+   119
+  ],
+  "abbr": false
+ },
+ {
+  "word": "capabilities",
+  "cefr": "外",
+  "count": 6,
+  "sents": [
+   8,
+   16,
+   41,
+   74,
+   88,
+   96
+  ],
+  "abbr": false
+ },
+ {
+  "word": "database",
+  "cefr": 4,
+  "count": 6,
+  "sents": [
+   4,
+   6,
+   28,
+   55,
+   117,
+   118
+  ],
+  "abbr": false
+ },
+ {
+  "word": "demonstrates",
+  "cefr": "外",
+  "count": 6,
+  "sents": [
+   34,
+   41,
+   95,
+   102,
+   115,
+   118
+  ],
+  "abbr": false
+ },
+ {
+  "word": "efectively",
+  "cefr": "外",
+  "count": 6,
+  "sents": [
+   15,
+   58,
+   98,
+   104,
+   116,
+   121
+  ],
+  "abbr": false
+ },
+ {
+  "word": "fig",
+  "cefr": "外",
+  "count": 6,
+  "sents": [
+   22,
+   34,
+   46,
+   48,
+   90,
+   109
+  ],
+  "abbr": false
+ },
+ {
+  "word": "module",
+  "cefr": "外",
+  "count": 6,
+  "sents": [
+   51,
+   53,
+   56,
+   58,
+   59,
+   99
+  ],
+  "abbr": false
+ },
+ {
+  "word": "moonshot-v",
+  "cefr": "外",
+  "count": 6,
+  "sents": [
+   21,
+   36,
+   38,
+   90,
+   97,
+   100
+  ],
+  "abbr": false
+ },
+ {
+  "word": "results",
+  "cefr": "外",
+  "count": 6,
+  "sents": [
+   17,
+   80,
+   84,
+   101,
+   104,
+   109
+  ],
+  "abbr": false
+ },
+ {
+  "word": "rouge-l",
+  "cefr": "外",
+  "count": 6,
+  "sents": [
+   16,
+   21,
+   63,
+   72,
+   73,
+   109
+  ],
+  "abbr": false
+ },
+ {
+  "word": "rules",
+  "cefr": "外",
+  "count": 6,
+  "sents": [
+   56,
+   59,
+   99,
+   106,
+   108,
+   121
+  ],
+  "abbr": false
+ },
+ {
+  "word": "underlying",
+  "cefr": "外",
+  "count": 6,
+  "sents": [
+   18,
+   28,
+   55,
+   83,
+   96,
+   122
+  ],
+  "abbr": false
+ },
+ {
+  "word": "attributes",
+  "cefr": "外",
+  "count": 5,
+  "sents": [
+   29,
+   52,
+   58,
+   62,
+   64
+  ],
+  "abbr": false
+ },
+ {
+  "word": "automated",
+  "cefr": "外",
+  "count": 5,
+  "sents": [
+   10,
+   12,
+   20,
+   42,
+   117
+  ],
+  "abbr": false
+ },
+ {
+  "word": "capability",
+  "cefr": 4,
+  "count": 5,
+  "sents": [
+   71,
+   75,
+   83,
+   98,
+   118
+  ],
+  "abbr": false
+ },
+ {
+  "word": "constraints",
+  "cefr": "外",
+  "count": 5,
+  "sents": [
+   15,
+   38,
+   56,
+   83,
+   104
+  ],
+  "abbr": false
+ },
+ {
+  "word": "ensures",
+  "cefr": "外",
+  "count": 5,
+  "sents": [
+   40,
+   55,
+   58,
+   79,
+   117
+  ],
+  "abbr": false
+ },
+ {
+  "word": "json",
+  "cefr": "外",
+  "count": 5,
+  "sents": [
+   18,
+   37,
+   42,
+   56,
+   122
+  ],
+  "abbr": false
+ },
+ {
+  "word": "llm",
+  "cefr": "外",
+  "count": 5,
+  "sents": [
+   25,
+   31,
+   36,
+   51,
+   85
+  ],
+  "abbr": false
+ },
+ {
+  "word": "mechanism",
+  "cefr": 5,
+  "count": 5,
+  "sents": [
+   16,
+   75,
+   79,
+   83,
+   121
+  ],
+  "abbr": false
+ },
+ {
+  "word": "objective",
+  "cefr": 4,
+  "count": 5,
+  "sents": [
+   31,
+   52,
+   61,
+   64
+  ],
+  "abbr": false
+ },
+ {
+  "word": "one-shot",
+  "cefr": "外",
+  "count": 5,
+  "sents": [
+   14,
+   41,
+   60,
+   99,
+   107
+  ],
+  "abbr": false
+ },
+ {
+  "word": "overall",
+  "cefr": 4,
+  "count": 5,
+  "sents": [
+   22,
+   47,
+   79,
+   109
+  ],
+  "abbr": false
+ },
+ {
+  "word": "requirements",
+  "cefr": "外",
+  "count": 5,
+  "sents": [
+   3,
+   12,
+   28,
+   55,
+   61
+  ],
+  "abbr": false
+ },
+ {
+  "word": "robust",
+  "cefr": 5,
+  "count": 5,
+  "sents": [
+   8,
+   17,
+   37,
+   96,
+   120
+  ],
+  "abbr": false
+ },
+ {
+  "word": "semantic",
+  "cefr": "外",
+  "count": 5,
+  "sents": [
+   28,
+   54,
+   70,
+   72,
+   82
+  ],
+  "abbr": false
+ },
+ {
+  "word": "standard",
+  "cefr": 4,
+  "count": 5,
+  "sents": [
+   59,
+   68,
+   93,
+   114,
+   115
+  ],
+  "abbr": false
+ },
+ {
+  "word": "standardized",
+  "cefr": "外",
+  "count": 5,
+  "sents": [
+   25,
+   31,
+   83,
+   92,
+   118
+  ],
+  "abbr": false
+ },
+ {
+  "word": "strictly",
+  "cefr": 4,
+  "count": 5,
+  "sents": [
+   9,
+   37,
+   44,
+   61,
+   65
+  ],
+  "abbr": false
+ },
+ {
+  "word": "substances",
+  "cefr": "外",
+  "count": 5,
+  "sents": [
+   2,
+   4,
+   12,
+   64,
+   119
+  ],
+  "abbr": false
+ },
+ {
+  "word": "density",
+  "cefr": "外",
+  "count": 4,
+  "sents": [
+   32,
+   33,
+   34,
+   49
+  ],
+  "abbr": false
+ },
+ {
+  "word": "diferent",
+  "cefr": "外",
+  "count": 4,
+  "sents": [
+   32,
+   62,
+   65,
+   91
+  ],
+  "abbr": false
+ },
+ {
+  "word": "entities",
+  "cefr": "外",
+  "count": 4,
+  "sents": [
+   33,
+   62,
+   104,
+   118
+  ],
+  "abbr": false
+ },
+ {
+  "word": "guided",
+  "cefr": "外",
+  "count": 4,
+  "sents": [
+   14,
+   57,
+   83,
+   121
+  ],
+  "abbr": false
+ },
+ {
+  "word": "hallucination",
+  "cefr": "外",
+  "count": 4,
+  "sents": [
+   45,
+   74,
+   121
+  ],
+  "abbr": false
+ },
+ {
+  "word": "inedible",
+  "cefr": "外",
+  "count": 4,
+  "sents": [
+   2,
+   4,
+   12,
+   119
+  ],
+  "abbr": false
+ },
+ {
+  "word": "integration",
+  "cefr": "外",
+  "count": 4,
+  "sents": [
+   18,
+   28,
+   121,
+   122
+  ],
+  "abbr": false
+ },
+ {
+  "word": "learning",
+  "cefr": 4,
+  "count": 4,
+  "sents": [
+   7,
+   8,
+   41,
+   60
+  ],
+  "abbr": false
+ },
+ {
+  "word": "metric",
+  "cefr": 4,
+  "count": 4,
+  "sents": [
+   62,
+   63,
+   72,
+   109
+  ],
+  "abbr": false
+ },
+ {
+  "word": "nicotinic",
+  "cefr": "外",
+  "count": 4,
+  "sents": [
+   85,
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "parsing",
+  "cefr": "外",
+  "count": 4,
+  "sents": [
+   10,
+   13,
+   37,
+   42
+  ],
+  "abbr": false
+ },
+ {
+  "word": "precision",
+  "cefr": 5,
+  "count": 4,
+  "sents": [
+   3,
+   25,
+   74,
+   117
+  ],
+  "abbr": false
+ },
+ {
+  "word": "prompting",
+  "cefr": "外",
+  "count": 4,
+  "sents": [
+   12,
+   31,
+   41,
+   89
+  ],
+  "abbr": false
+ },
+ {
+  "word": "provides",
+  "cefr": "外",
+  "count": 4,
+  "sents": [
+   19,
+   54,
+   113,
+   123
+  ],
+  "abbr": false
+ },
+ {
+  "word": "specifically",
+  "cefr": 4,
+  "count": 4,
+  "sents": [
+   10,
+   13,
+   33,
+   68
+  ],
+  "abbr": false
+ },
+ {
+  "word": "texts",
+  "cefr": "外",
+  "count": 4,
+  "sents": [
+   35,
+   37,
+   50,
+   118
+  ],
+  "abbr": false
+ },
+ {
+  "word": "textual",
+  "cefr": "外",
+  "count": 4,
+  "sents": [
+   19,
+   23,
+   62,
+   123
+  ],
+  "abbr": false
+ },
+ {
+  "word": "verb-noun",
+  "cefr": "外",
+  "count": 4,
+  "sents": [
+   14,
+   57,
+   83,
+   121
+  ],
+  "abbr": false
+ },
+ {
+  "word": "abstracts",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   24,
+   29,
+   55
+  ],
+  "abbr": false
+ },
+ {
+  "word": "acipimox",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   85,
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "adipose",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   86,
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "baseline",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   99,
+   103,
+   109
+  ],
+  "abbr": false
+ },
+ {
+  "word": "boundary",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   10,
+   82,
+   121
+  ],
+  "abbr": false
+ },
+ {
+  "word": "carboxylic",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   86,
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "comprehension",
+  "cefr": 4,
+  "count": 3,
+  "sents": [
+   25,
+   37,
+   95
+  ],
+  "abbr": false
+ },
+ {
+  "word": "conducted",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   28,
+   88,
+   100
+  ],
+  "abbr": false
+ },
+ {
+  "word": "corpus",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   26,
+   30,
+   82
+  ],
+  "abbr": false
+ },
+ {
+  "word": "decline",
+  "cefr": 4,
+  "count": 3,
+  "sents": [
+   34,
+   35,
+   106
+  ],
+  "abbr": false
+ },
+ {
+  "word": "deepseek-v",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   36,
+   88,
+   96
+  ],
+  "abbr": false
+ },
+ {
+  "word": "definitions",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   14,
+   53,
+   99
+  ],
+  "abbr": false
+ },
+ {
+  "word": "deployment",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   11,
+   19,
+   123
+  ],
+  "abbr": false
+ },
+ {
+  "word": "derivative",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   85,
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "evaluate",
+  "cefr": 4,
+  "count": 3,
+  "sents": [
+   72,
+   88,
+   99
+  ],
+  "abbr": false
+ },
+ {
+  "word": "evaluated",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   89,
+   97,
+   110
+  ],
+  "abbr": false
+ },
+ {
+  "word": "exhibit",
+  "cefr": 4,
+  "count": 3,
+  "sents": [
+   62,
+   69,
+   92
+  ],
+  "abbr": false
+ },
+ {
+  "word": "expressions",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   7,
+   60,
+   69
+  ],
+  "abbr": false
+ },
+ {
+  "word": "extracted",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   33,
+   58,
+   82
+  ],
+  "abbr": false
+ },
+ {
+  "word": "extracting",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   5,
+   50,
+   62
+  ],
+  "abbr": false
+ },
+ {
+  "word": "fatty",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   86,
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "free",
+  "cefr": 4,
+  "count": 3,
+  "sents": [
+   86,
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "hybrid",
+  "cefr": 4,
+  "count": 3,
+  "sents": [
+   21,
+   62,
+   63
+  ],
+  "abbr": false
+ },
+ {
+  "word": "increases",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   34,
+   49,
+   102
+  ],
+  "abbr": false
+ },
+ {
+  "word": "methylpyrazine-",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   86,
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "mitigates",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   45,
+   58,
+   121
+  ],
+  "abbr": false
+ },
+ {
+  "word": "outputs",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   9,
+   45,
+   61
+  ],
+  "abbr": false
+ },
+ {
+  "word": "pharmacological",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   23,
+   52,
+   82
+  ],
+  "abbr": false
+ },
+ {
+  "word": "pipeline",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   21,
+   25,
+   117
+  ],
+  "abbr": false
+ },
+ {
+  "word": "rigorous",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   11,
+   27,
+   58
+  ],
+  "abbr": false
+ },
+ {
+  "word": "samples",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   30,
+   39,
+   76
+  ],
+  "abbr": false
+ },
+ {
+  "word": "scores",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   92,
+   105,
+   109
+  ],
+  "abbr": false
+ },
+ {
+  "word": "scoring",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   16,
+   75,
+   79
+  ],
+  "abbr": false
+ },
+ {
+  "word": "splitting",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   83,
+   106,
+   121
+  ],
+  "abbr": false
+ },
+ {
+  "word": "standardization",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   55,
+   58,
+   67
+  ],
+  "abbr": false
+ },
+ {
+  "word": "structural",
+  "cefr": 5,
+  "count": 3,
+  "sents": [
+   28,
+   61,
+   95
+  ],
+  "abbr": false
+ },
+ {
+  "word": "substance",
+  "cefr": 4,
+  "count": 3,
+  "sents": [
+   28,
+   65,
+   85
+  ],
+  "abbr": false
+ },
+ {
+  "word": "systems",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   11,
+   18,
+   122
+  ],
+  "abbr": false
+ },
+ {
+  "word": "ultimately",
+  "cefr": 4,
+  "count": 3,
+  "sents": [
+   18,
+   29,
+   122
+  ],
+  "abbr": false
+ },
+ {
+  "word": "using",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   57,
+   89,
+   100
+  ],
+  "abbr": false
+ },
+ {
+  "word": "zero-inference",
+  "cefr": "外",
+  "count": 3,
+  "sents": [
+   14,
+   57,
+   83
+  ],
+  "abbr": false
+ },
+ {
+  "word": "ablation",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   99,
+   109
+  ],
+  "abbr": false
+ },
+ {
+  "word": "adherence",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   41,
+   95
+  ],
+  "abbr": false
+ },
+ {
+  "word": "adopts",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   57,
+   66
+  ],
+  "abbr": false
+ },
+ {
+  "word": "annotation",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   28,
+   85
+  ],
+  "abbr": false
+ },
+ {
+  "word": "applied",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   27,
+   71
+  ],
+  "abbr": false
+ },
+ {
+  "word": "avoiding",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   40,
+   98
+  ],
+  "abbr": false
+ },
+ {
+  "word": "blurring",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   10,
+   121
+  ],
+  "abbr": false
+ },
+ {
+  "word": "boundaries",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   95,
+   108
+  ],
+  "abbr": false
+ },
+ {
+  "word": "calculated",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   33,
+   78
+  ],
+  "abbr": false
+ },
+ {
+  "word": "challenge",
+  "cefr": 4,
+  "count": 2,
+  "sents": [
+   35,
+   119
+  ],
+  "abbr": false
+ },
+ {
+  "word": "challenges",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   2,
+   12
+  ],
+  "abbr": false
+ },
+ {
+  "word": "characteristics",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   32,
+   62
+  ],
+  "abbr": false
+ },
+ {
+  "word": "characters",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   26,
+   27
+  ],
+  "abbr": false
+ },
+ {
+  "word": "chart",
+  "cefr": 5,
+  "count": 2,
+  "sents": [
+   91,
+   97
+  ],
+  "abbr": false
+ },
+ {
+  "word": "cleaning",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   25,
+   63
+  ],
+  "abbr": false
+ },
+ {
+  "word": "commodities",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   1,
+   3
+  ],
+  "abbr": false
+ },
+ {
+  "word": "computing",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   19,
+   123
+  ],
+  "abbr": false
+ },
+ {
+  "word": "consistency",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   45,
+   113
+  ],
+  "abbr": false
+ },
+ {
+  "word": "constructs",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   20,
+   75
+  ],
+  "abbr": false
+ },
+ {
+  "word": "converge",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   54,
+   104
+  ],
+  "abbr": false
+ },
+ {
+  "word": "datasets",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   17,
+   23
+  ],
+  "abbr": false
+ },
+ {
+  "word": "decoding",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   44,
+   116
+  ],
+  "abbr": false
+ },
+ {
+  "word": "deep",
+  "cefr": 4,
+  "count": 2,
+  "sents": [
+   7,
+   95
+  ],
+  "abbr": false
+ },
+ {
+  "word": "demonstrations",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   42,
+   116
+  ],
+  "abbr": false
+ },
+ {
+  "word": "descriptions",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   52,
+   57
+  ],
+  "abbr": false
+ },
+ {
+  "word": "descriptive",
+  "cefr": 4,
+  "count": 2,
+  "sents": [
+   69,
+   104
+  ],
+  "abbr": false
+ },
+ {
+  "word": "detailed",
+  "cefr": 4,
+  "count": 2,
+  "sents": [
+   51,
+   84
+  ],
+  "abbr": false
+ },
+ {
+  "word": "detection",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   5,
+   12
+  ],
+  "abbr": false
+ },
+ {
+  "word": "deviation",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   114,
+   115
+  ],
+  "abbr": false
+ },
+ {
+  "word": "dimensions",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   91,
+   97
+  ],
+  "abbr": false
+ },
+ {
+  "word": "domain",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   51,
+   58
+  ],
+  "abbr": false
+ },
+ {
+  "word": "domains",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   23,
+   121
+  ],
+  "abbr": false
+ },
+ {
+  "word": "empirical",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   36,
+   88
+  ],
+  "abbr": false
+ },
+ {
+  "word": "employs",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   72,
+   74
+  ],
+  "abbr": false
+ },
+ {
+  "word": "ensuring",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   16,
+   61
+  ],
+  "abbr": false
+ },
+ {
+  "word": "equitable",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   16,
+   79
+  ],
+  "abbr": false
+ },
+ {
+  "word": "exemplars",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   99,
+   108
+  ],
+  "abbr": false
+ },
+ {
+  "word": "experiments",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   43,
+   100
+  ],
+  "abbr": false
+ },
+ {
+  "word": "explicit",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   104,
+   108
+  ],
+  "abbr": false
+ },
+ {
+  "word": "facilitates",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   18,
+   122
+  ],
+  "abbr": false
+ },
+ {
+  "word": "flash",
+  "cefr": 4,
+  "count": 2,
+  "sents": [
+   36,
+   88
+  ],
+  "abbr": false
+ },
+ {
+  "word": "following",
+  "cefr": 4,
+  "count": 2,
+  "sents": [
+   83,
+   85
+  ],
+  "abbr": false
+ },
+ {
+  "word": "follows",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   51,
+   68
+  ],
+  "abbr": false
+ },
+ {
+  "word": "format-sensitive",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   94,
+   103
+  ],
+  "abbr": false
+ },
+ {
+  "word": "formats",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   10,
+   26
+  ],
+  "abbr": false
+ },
+ {
+  "word": "general-purpose",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   9,
+   121
+  ],
+  "abbr": false
+ },
+ {
+  "word": "generalization",
+  "cefr": 4,
+  "count": 2,
+  "sents": [
+   7,
+   28
+  ],
+  "abbr": false
+ },
+ {
+  "word": "generated",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   18,
+   122
+  ],
+  "abbr": false
+ },
+ {
+  "word": "glm-",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   36,
+   88
+  ],
+  "abbr": false
+ },
+ {
+  "word": "ground",
+  "cefr": 5,
+  "count": 2,
+  "sents": [
+   67,
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "hallucinations",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   10,
+   58
+  ],
+  "abbr": false
+ },
+ {
+  "word": "human-annotated",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   7,
+   67
+  ],
+  "abbr": false
+ },
+ {
+  "word": "hypolipidemic",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   86,
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "icl",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   41,
+   116
+  ],
+  "abbr": false
+ },
+ {
+  "word": "identical",
+  "cefr": 4,
+  "count": 2,
+  "sents": [
+   67,
+   89
+  ],
+  "abbr": false
+ },
+ {
+  "word": "identification",
+  "cefr": 4,
+  "count": 2,
+  "sents": [
+   2,
+   119
+  ],
+  "abbr": false
+ },
+ {
+  "word": "illustrated",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   22,
+   90
+  ],
+  "abbr": false
+ },
+ {
+  "word": "inherent",
+  "cefr": 5,
+  "count": 2,
+  "sents": [
+   27,
+   115
+  ],
+  "abbr": false
+ },
+ {
+  "word": "inhibits",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   86,
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "input",
+  "cefr": 4,
+  "count": 2,
+  "sents": [
+   33,
+   85
+  ],
+  "abbr": false
+ },
+ {
+  "word": "leverages",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   5,
+   60
+  ],
+  "abbr": false
+ },
+ {
+  "word": "limitations",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   9,
+   98
+  ],
+  "abbr": false
+ },
+ {
+  "word": "long-context",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   37,
+   116
+  ],
+  "abbr": false
+ },
+ {
+  "word": "manual",
+  "cefr": 4,
+  "count": 2,
+  "sents": [
+   28,
+   30
+  ],
+  "abbr": false
+ },
+ {
+  "word": "mapping",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   96,
+   107
+  ],
+  "abbr": false
+ },
+ {
+  "word": "mean",
+  "cefr": 4,
+  "count": 2,
+  "sents": [
+   74,
+   109
+  ],
+  "abbr": false
+ },
+ {
+  "word": "methodology",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   20,
+   21
+  ],
+  "abbr": false
+ },
+ {
+  "word": "methods",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   5,
+   7
+  ],
+  "abbr": false
+ },
+ {
+  "word": "metrics",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   16,
+   21
+  ],
+  "abbr": false
+ },
+ {
+  "word": "moonshotv",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   88,
+   95
+  ],
+  "abbr": false
+ },
+ {
+  "word": "numerical",
+  "cefr": 4,
+  "count": 2,
+  "sents": [
+   67,
+   92
+  ],
+  "abbr": false
+ },
+ {
+  "word": "observed",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   105,
+   115
+  ],
+  "abbr": false
+ },
+ {
+  "word": "occurs",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   94,
+   103
+  ],
+  "abbr": false
+ },
+ {
+  "word": "oxide",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   86,
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "paradigm",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   19,
+   123
+  ],
+  "abbr": false
+ },
+ {
+  "word": "physicochemical",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   5,
+   27
+  ],
+  "abbr": false
+ },
+ {
+  "word": "preprocessing",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   21,
+   25
+  ],
+  "abbr": false
+ },
+ {
+  "word": "prior",
+  "cefr": 4,
+  "count": 2,
+  "sents": [
+   25,
+   51
+  ],
+  "abbr": false
+ },
+ {
+  "word": "process",
+  "cefr": 4,
+  "count": 2,
+  "sents": [
+   74,
+   104
+  ],
+  "abbr": false
+ },
+ {
+  "word": "proposed",
+  "cefr": 4,
+  "count": 2,
+  "sents": [
+   47,
+   118
+  ],
+  "abbr": false
+ },
+ {
+  "word": "proposes",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   12,
+   50
+  ],
+  "abbr": false
+ },
+ {
+  "word": "qwen-plus",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   36,
+   88
+  ],
+  "abbr": false
+ },
+ {
+  "word": "radar",
+  "cefr": 4,
+  "count": 2,
+  "sents": [
+   91,
+   97
+  ],
+  "abbr": false
+ },
+ {
+  "word": "reduces",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   19,
+   123
+  ],
+  "abbr": false
+ },
+ {
+  "word": "redundant",
+  "cefr": 4,
+  "count": 2,
+  "sents": [
+   26,
+   67
+  ],
+  "abbr": false
+ },
+ {
+  "word": "reliance",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   19,
+   123
+  ],
+  "abbr": false
+ },
+ {
+  "word": "requires",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   37,
+   76
+  ],
+  "abbr": false
+ },
+ {
+  "word": "resources",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   19,
+   123
+  ],
+  "abbr": false
+ },
+ {
+  "word": "rigor",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   43,
+   64
+  ],
+  "abbr": false
+ },
+ {
+  "word": "roadmap",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   22,
+   47
+  ],
+  "abbr": false
+ },
+ {
+  "word": "robustness",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   113,
+   115
+  ],
+  "abbr": false
+ },
+ {
+  "word": "runs",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   109,
+   114
+  ],
+  "abbr": false
+ },
+ {
+  "word": "shown",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   34,
+   114
+  ],
+  "abbr": false
+ },
+ {
+  "word": "single-sample",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   81,
+   85
+  ],
+  "abbr": false
+ },
+ {
+  "word": "specialized",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   52,
+   120
+  ],
+  "abbr": false
+ },
+ {
+  "word": "stability",
+  "cefr": 4,
+  "count": 2,
+  "sents": [
+   113,
+   117
+  ],
+  "abbr": false
+ },
+ {
+  "word": "strategies",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   99,
+   102
+  ],
+  "abbr": false
+ },
+ {
+  "word": "stripping",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   26,
+   67
+  ],
+  "abbr": false
+ },
+ {
+  "word": "subsequent",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   10,
+   31
+  ],
+  "abbr": false
+ },
+ {
+  "word": "targeted",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   24,
+   50
+  ],
+  "abbr": false
+ },
+ {
+  "word": "technical",
+  "cefr": 4,
+  "count": 2,
+  "sents": [
+   22,
+   47
+  ],
+  "abbr": false
+ },
+ {
+  "word": "test",
+  "cefr": 4,
+  "count": 2,
+  "sents": [
+   76,
+   100
+  ],
+  "abbr": false
+ },
+ {
+  "word": "testing",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   3,
+   5
+  ],
+  "abbr": false
+ },
+ {
+  "word": "thereby",
+  "cefr": 5,
+  "count": 2,
+  "sents": [
+   5,
+   71
+  ],
+  "abbr": false
+ },
+ {
+  "word": "types",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   16,
+   79
+  ],
+  "abbr": false
+ },
+ {
+  "word": "underscores",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   35,
+   108
+  ],
+  "abbr": false
+ },
+ {
+  "word": "understanding",
+  "cefr": 4,
+  "count": 2,
+  "sents": [
+   8,
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "uniformly",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   66,
+   67
+  ],
+  "abbr": false
+ },
+ {
+  "word": "validate",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   81,
+   88
+  ],
+  "abbr": false
+ },
+ {
+  "word": "value",
+  "cefr": 4,
+  "count": 2,
+  "sents": [
+   67,
+   68
+  ],
+  "abbr": false
+ },
+ {
+  "word": "viable",
+  "cefr": "外",
+  "count": 2,
+  "sents": [
+   19,
+   123
+  ],
+  "abbr": false
+ },
+ {
+  "word": "abstractive",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   60
+  ],
+  "abbr": false
+ },
+ {
+  "word": "achieved",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   120
+  ],
+  "abbr": false
+ },
+ {
+  "word": "achieves",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   17
+  ],
+  "abbr": false
+ },
+ {
+  "word": "achieving",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   90
+  ],
+  "abbr": false
+ },
+ {
+  "word": "acids",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   86
+  ],
+  "abbr": false
+ },
+ {
+  "word": "acquisition",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   21
+  ],
+  "abbr": false
+ },
+ {
+  "word": "activate",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   51
+  ],
+  "abbr": false
+ },
+ {
+  "word": "adding",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   99
+  ],
+  "abbr": false
+ },
+ {
+  "word": "addressing",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   27
+  ],
+  "abbr": false
+ },
+ {
+  "word": "adhere",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   65
+  ],
+  "abbr": false
+ },
+ {
+  "word": "adheres",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   61
+  ],
+  "abbr": false
+ },
+ {
+  "word": "aforementioned",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   59
+  ],
+  "abbr": false
+ },
+ {
+  "word": "algorithm",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   73
+  ],
+  "abbr": false
+ },
+ {
+  "word": "aligning",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   28
+  ],
+  "abbr": false
+ },
+ {
+  "word": "alteration",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   65
+  ],
+  "abbr": false
+ },
+ {
+  "word": "anchor",
+  "cefr": 5,
+  "count": 1,
+  "sents": [
+   52
+  ],
+  "abbr": false
+ },
+ {
+  "word": "anchoring",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   14
+  ],
+  "abbr": false
+ },
+ {
+  "word": "annotators",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   30
+  ],
+  "abbr": false
+ },
+ {
+  "word": "anomaly",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   105
+  ],
+  "abbr": false
+ },
+ {
+  "word": "anti-hallucination",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   83
+  ],
+  "abbr": false
+ },
+ {
+  "word": "api",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   43
+  ],
+  "abbr": false
+ },
+ {
+  "word": "approach",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   5
+  ],
+  "abbr": false
+ },
+ {
+  "word": "architectures",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   7
+  ],
+  "abbr": false
+ },
+ {
+  "word": "assigning",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   57
+  ],
+  "abbr": false
+ },
+ {
+  "word": "assigns",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   51
+  ],
+  "abbr": false
+ },
+ {
+  "word": "associated",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   40
+  ],
+  "abbr": false
+ },
+ {
+  "word": "associations",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   82
+  ],
+  "abbr": false
+ },
+ {
+  "word": "atherosclerosis",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "attributed",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   106
+  ],
+  "abbr": false
+ },
+ {
+  "word": "authorities",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   5
+  ],
+  "abbr": false
+ },
+ {
+  "word": "automates",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   24
+  ],
+  "abbr": false
+ },
+ {
+  "word": "awards",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   68
+  ],
+  "abbr": false
+ },
+ {
+  "word": "axes",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   111
+  ],
+  "abbr": false
+ },
+ {
+  "word": "balance",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   74
+  ],
+  "abbr": false
+ },
+ {
+  "word": "balanced",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   90
+  ],
+  "abbr": false
+ },
+ {
+  "word": "benchmark",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   30
+  ],
+  "abbr": false
+ },
+ {
+  "word": "biases",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   91
+  ],
+  "abbr": false
+ },
+ {
+  "word": "biochemical",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   51
+  ],
+  "abbr": false
+ },
+ {
+  "word": "bottleneck",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   93
+  ],
+  "abbr": false
+ },
+ {
+  "word": "bottlenecks",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   11
+  ],
+  "abbr": false
+ },
+ {
+  "word": "breaks",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   26
+  ],
+  "abbr": false
+ },
+ {
+  "word": "calibrates",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   107
+  ],
+  "abbr": false
+ },
+ {
+  "word": "cases",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   108
+  ],
+  "abbr": false
+ },
+ {
+  "word": "caused",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   106
+  ],
+  "abbr": false
+ },
+ {
+  "word": "characterized",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   82
+  ],
+  "abbr": false
+ },
+ {
+  "word": "china",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   24
+  ],
+  "abbr": false
+ },
+ {
+  "word": "chinese",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   27
+  ],
+  "abbr": false
+ },
+ {
+  "word": "cleansing",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   26
+  ],
+  "abbr": false
+ },
+ {
+  "word": "cnki",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   24
+  ],
+  "abbr": false
+ },
+ {
+  "word": "collapse",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   10
+  ],
+  "abbr": false
+ },
+ {
+  "word": "combines",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   63
+  ],
+  "abbr": false
+ },
+ {
+  "word": "combining",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   21
+  ],
+  "abbr": false
+ },
+ {
+  "word": "composite",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   83
+  ],
+  "abbr": false
+ },
+ {
+  "word": "comprising",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   118
+  ],
+  "abbr": false
+ },
+ {
+  "word": "computational",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   52
+  ],
+  "abbr": false
+ },
+ {
+  "word": "concise",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   60
+  ],
+  "abbr": false
+ },
+ {
+  "word": "conditions",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   82
+  ],
+  "abbr": false
+ },
+ {
+  "word": "conduct",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   36
+  ],
+  "abbr": false
+ },
+ {
+  "word": "conducts",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   81
+  ],
+  "abbr": false
+ },
+ {
+  "word": "configuration",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   45
+  ],
+  "abbr": false
+ },
+ {
+  "word": "configurations",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   89
+  ],
+  "abbr": false
+ },
+ {
+  "word": "conjunctions",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   70
+  ],
+  "abbr": false
+ },
+ {
+  "word": "consistent",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   102
+  ],
+  "abbr": false
+ },
+ {
+  "word": "consisting",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   30
+  ],
+  "abbr": false
+ },
+ {
+  "word": "constrained",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   12
+  ],
+  "abbr": false
+ },
+ {
+  "word": "constructed",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   119
+  ],
+  "abbr": false
+ },
+ {
+  "word": "contains",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   76
+  ],
+  "abbr": false
+ },
+ {
+  "word": "content",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   85
+  ],
+  "abbr": false
+ },
+ {
+  "word": "controlled",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   89
+  ],
+  "abbr": false
+ },
+ {
+  "word": "conversely",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   69
+  ],
+  "abbr": false
+ },
+ {
+  "word": "corpora",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   81
+  ],
+  "abbr": false
+ },
+ {
+  "word": "correct",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   67
+  ],
+  "abbr": false
+ },
+ {
+  "word": "corresponding",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   30
+  ],
+  "abbr": false
+ },
+ {
+  "word": "costly",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   3
+  ],
+  "abbr": false
+ },
+ {
+  "word": "covers",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   39
+  ],
+  "abbr": false
+ },
+ {
+  "word": "crashes",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   42
+  ],
+  "abbr": false
+ },
+ {
+  "word": "crawler",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   23
+  ],
+  "abbr": false
+ },
+ {
+  "word": "crawling",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   24
+  ],
+  "abbr": false
+ },
+ {
+  "word": "criterion",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   66
+  ],
+  "abbr": false
+ },
+ {
+  "word": "cross-lingual",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   96
+  ],
+  "abbr": false
+ },
+ {
+  "word": "crossborder",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   1
+  ],
+  "abbr": false
+ },
+ {
+  "word": "curated",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   30
+  ],
+  "abbr": false
+ },
+ {
+  "word": "customized",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   23
+  ],
+  "abbr": false
+ },
+ {
+  "word": "dataset",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   39
+  ],
+  "abbr": false
+ },
+ {
+  "word": "deemed",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   67
+  ],
+  "abbr": false
+ },
+ {
+  "word": "defines",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   53
+  ],
+  "abbr": false
+ },
+ {
+  "word": "defining",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   54
+  ],
+  "abbr": false
+ },
+ {
+  "word": "degradation",
+  "cefr": 5,
+  "count": 1,
+  "sents": [
+   49
+  ],
+  "abbr": false
+ },
+ {
+  "word": "delineated",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   29
+  ],
+  "abbr": false
+ },
+ {
+  "word": "demonstrated",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   8
+  ],
+  "abbr": false
+ },
+ {
+  "word": "demonstrating",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   120
+  ],
+  "abbr": false
+ },
+ {
+  "word": "dependence",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   7
+  ],
+  "abbr": false
+ },
+ {
+  "word": "deployed",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   26
+  ],
+  "abbr": false
+ },
+ {
+  "word": "derived",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   89
+  ],
+  "abbr": false
+ },
+ {
+  "word": "designated",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   37
+  ],
+  "abbr": false
+ },
+ {
+  "word": "designates",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   65
+  ],
+  "abbr": false
+ },
+ {
+  "word": "designed",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   13
+  ],
+  "abbr": false
+ },
+ {
+  "word": "designs",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   63
+  ],
+  "abbr": false
+ },
+ {
+  "word": "details",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   21
+  ],
+  "abbr": false
+ },
+ {
+  "word": "determines",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   68
+  ],
+  "abbr": false
+ },
+ {
+  "word": "deviations",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   10
+  ],
+  "abbr": false
+ },
+ {
+  "word": "diabetes",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "diferences",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   62
+  ],
+  "abbr": false
+ },
+ {
+  "word": "dificult",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   3
+  ],
+  "abbr": false
+ },
+ {
+  "word": "diseases",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "divergence",
+  "cefr": 5,
+  "count": 1,
+  "sents": [
+   94
+  ],
+  "abbr": false
+ },
+ {
+  "word": "diversity",
+  "cefr": 5,
+  "count": 1,
+  "sents": [
+   69
+  ],
+  "abbr": false
+ },
+ {
+  "word": "domain-specific",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   8
+  ],
+  "abbr": false
+ },
+ {
+  "word": "domainspecific",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   108
+  ],
+  "abbr": false
+ },
+ {
+  "word": "downstream",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   37
+  ],
+  "abbr": false
+ },
+ {
+  "word": "drift",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   116
+  ],
+  "abbr": false
+ },
+ {
+  "word": "driven",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   97
+  ],
+  "abbr": false
+ },
+ {
+  "word": "dyslipidemia",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "e-commerce",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   1
+  ],
+  "abbr": false
+ },
+ {
+  "word": "efectiveness",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   81
+  ],
+  "abbr": false
+ },
+ {
+  "word": "effects",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   85
+  ],
+  "abbr": false
+ },
+ {
+  "word": "eficiency",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   25
+  ],
+  "abbr": false
+ },
+ {
+  "word": "eficient",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   5
+  ],
+  "abbr": false
+ },
+ {
+  "word": "eficiently",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   39
+  ],
+  "abbr": false
+ },
+ {
+  "word": "eliminating",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   26
+  ],
+  "abbr": false
+ },
+ {
+  "word": "empirically",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   81
+  ],
+  "abbr": false
+ },
+ {
+  "word": "employed",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   88
+  ],
+  "abbr": false
+ },
+ {
+  "word": "employing",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   120
+  ],
+  "abbr": false
+ },
+ {
+  "word": "enabling",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   52
+  ],
+  "abbr": false
+ },
+ {
+  "word": "encoding",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   26
+  ],
+  "abbr": false
+ },
+ {
+  "word": "encounter",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   15
+  ],
+  "abbr": false
+ },
+ {
+  "word": "encountering",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   83
+  ],
+  "abbr": false
+ },
+ {
+  "word": "enforces",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   56
+  ],
+  "abbr": false
+ },
+ {
+  "word": "enhance",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   25
+  ],
+  "abbr": false
+ },
+ {
+  "word": "enhancement",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   113
+  ],
+  "abbr": false
+ },
+ {
+  "word": "establishes",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   16
+  ],
+  "abbr": false
+ },
+ {
+  "word": "evaluates",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   83
+  ],
+  "abbr": false
+ },
+ {
+  "word": "evidencing",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   95
+  ],
+  "abbr": false
+ },
+ {
+  "word": "exceptionally",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   114
+  ],
+  "abbr": false
+ },
+ {
+  "word": "execute",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   83
+  ],
+  "abbr": false
+ },
+ {
+  "word": "executed",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   43
+  ],
+  "abbr": false
+ },
+ {
+  "word": "exemplar",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   59
+  ],
+  "abbr": false
+ },
+ {
+  "word": "exhibited",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   121
+  ],
+  "abbr": false
+ },
+ {
+  "word": "exhibits",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   90
+  ],
+  "abbr": false
+ },
+ {
+  "word": "expansion",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   1
+  ],
+  "abbr": false
+ },
+ {
+  "word": "experimental",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   17
+  ],
+  "abbr": false
+ },
+ {
+  "word": "expert",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   51
+  ],
+  "abbr": false
+ },
+ {
+  "word": "explicitly",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   29
+  ],
+  "abbr": false
+ },
+ {
+  "word": "exponentially",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   1
+  ],
+  "abbr": false
+ },
+ {
+  "word": "extended",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   39
+  ],
+  "abbr": false
+ },
+ {
+  "word": "extract",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   85
+  ],
+  "abbr": false
+ },
+ {
+  "word": "extractor",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   12
+  ],
+  "abbr": false
+ },
+ {
+  "word": "faced",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   7
+  ],
+  "abbr": false
+ },
+ {
+  "word": "facilitating",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   5
+  ],
+  "abbr": false
+ },
+ {
+  "word": "factual",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   10
+  ],
+  "abbr": false
+ },
+ {
+  "word": "feature",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   40
+  ],
+  "abbr": false
+ },
+ {
+  "word": "feeding",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   25
+  ],
+  "abbr": false
+ },
+ {
+  "word": "fewer",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   85
+  ],
+  "abbr": false
+ },
+ {
+  "word": "forcibly",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   71
+  ],
+  "abbr": false
+ },
+ {
+  "word": "format-induced",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   42
+  ],
+  "abbr": false
+ },
+ {
+  "word": "formatting",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   56
+  ],
+  "abbr": false
+ },
+ {
+  "word": "forms",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   97
+  ],
+  "abbr": false
+ },
+ {
+  "word": "foundational",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   38
+  ],
+  "abbr": false
+ },
+ {
+  "word": "full-width",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   27
+  ],
+  "abbr": false
+ },
+ {
+  "word": "functional",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   57
+  ],
+  "abbr": false
+ },
+ {
+  "word": "functions",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   83
+  ],
+  "abbr": false
+ },
+ {
+  "word": "fundamental",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   99
+  ],
+  "abbr": false
+ },
+ {
+  "word": "fuses",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   16
+  ],
+  "abbr": false
+ },
+ {
+  "word": "gaps",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   57
+  ],
+  "abbr": false
+ },
+ {
+  "word": "globally",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   97
+  ],
+  "abbr": false
+ },
+ {
+  "word": "granularity",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   55
+  ],
+  "abbr": false
+ },
+ {
+  "word": "grown",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   1
+  ],
+  "abbr": false
+ },
+ {
+  "word": "guarantees",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   45
+  ],
+  "abbr": false
+ },
+ {
+  "word": "half-width",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   27
+  ],
+  "abbr": false
+ },
+ {
+  "word": "handling",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   15
+  ],
+  "abbr": false
+ },
+ {
+  "word": "harmonic",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   74
+  ],
+  "abbr": false
+ },
+ {
+  "word": "highest",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   90
+  ],
+  "abbr": false
+ },
+ {
+  "word": "hindering",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   11
+  ],
+  "abbr": false
+ },
+ {
+  "word": "html",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   26
+  ],
+  "abbr": false
+ },
+ {
+  "word": "hypertension",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "i-th",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   77
+  ],
+  "abbr": false
+ },
+ {
+  "word": "identified",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   68
+  ],
+  "abbr": false
+ },
+ {
+  "word": "identifiers",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   93
+  ],
+  "abbr": false
+ },
+ {
+  "word": "identifying",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   64
+  ],
+  "abbr": false
+ },
+ {
+  "word": "ignoring",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   67
+  ],
+  "abbr": false
+ },
+ {
+  "word": "iii",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   79
+  ],
+  "abbr": false
+ },
+ {
+  "word": "illustrate",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   32
+  ],
+  "abbr": false
+ },
+ {
+  "word": "implemented",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   25
+  ],
+  "abbr": false
+ },
+ {
+  "word": "implementing",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   58
+  ],
+  "abbr": false
+ },
+ {
+  "word": "implicitly",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   60
+  ],
+  "abbr": false
+ },
+ {
+  "word": "imported",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   1
+  ],
+  "abbr": false
+ },
+ {
+  "word": "in-context",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   41
+  ],
+  "abbr": false
+ },
+ {
+  "word": "includes",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   26
+  ],
+  "abbr": false
+ },
+ {
+  "word": "incontext",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   8
+  ],
+  "abbr": false
+ },
+ {
+  "word": "indicates",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   93
+  ],
+  "abbr": false
+ },
+ {
+  "word": "inevitably",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "informatics-driven",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   5
+  ],
+  "abbr": false
+ },
+ {
+  "word": "infrastructure",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   24
+  ],
+  "abbr": false
+ },
+ {
+  "word": "inherently",
+  "cefr": 5,
+  "count": 1,
+  "sents": [
+   3
+  ],
+  "abbr": false
+ },
+ {
+  "word": "inhibit",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "injecting",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   99
+  ],
+  "abbr": false
+ },
+ {
+  "word": "injects",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   59
+  ],
+  "abbr": false
+ },
+ {
+  "word": "innate",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   96
+  ],
+  "abbr": false
+ },
+ {
+  "word": "input-output",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   59
+  ],
+  "abbr": false
+ },
+ {
+  "word": "inputs",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   116
+  ],
+  "abbr": false
+ },
+ {
+  "word": "instructions",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   99
+  ],
+  "abbr": false
+ },
+ {
+  "word": "instruments",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   3
+  ],
+  "abbr": false
+ },
+ {
+  "word": "integrated",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   54
+  ],
+  "abbr": false
+ },
+ {
+  "word": "integrates",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   14
+  ],
+  "abbr": false
+ },
+ {
+  "word": "interference",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   58
+  ],
+  "abbr": false
+ },
+ {
+  "word": "intrinsic",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   62
+  ],
+  "abbr": false
+ },
+ {
+  "word": "introduced",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   2
+  ],
+  "abbr": false
+ },
+ {
+  "word": "intuitive",
+  "cefr": 5,
+  "count": 1,
+  "sents": [
+   61
+  ],
+  "abbr": false
+ },
+ {
+  "word": "intuitively",
+  "cefr": 5,
+  "count": 1,
+  "sents": [
+   91
+  ],
+  "abbr": false
+ },
+ {
+  "word": "invalid",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   26
+  ],
+  "abbr": false
+ },
+ {
+  "word": "invisible",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   26
+  ],
+  "abbr": false
+ },
+ {
+  "word": "irrelevant",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   52
+  ],
+  "abbr": false
+ },
+ {
+  "word": "issues",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   11
+  ],
+  "abbr": false
+ },
+ {
+  "word": "j-th",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   77
+  ],
+  "abbr": false
+ },
+ {
+  "word": "laboratory-based",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   3
+  ],
+  "abbr": false
+ },
+ {
+  "word": "large-scale",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   117
+  ],
+  "abbr": false
+ },
+ {
+  "word": "largest",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   97
+  ],
+  "abbr": false
+ },
+ {
+  "word": "latency",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   40
+  ],
+  "abbr": false
+ },
+ {
+  "word": "lays",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   31
+  ],
+  "abbr": false
+ },
+ {
+  "word": "lcs",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   73
+  ],
+  "abbr": false
+ },
+ {
+  "word": "legend",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   112
+  ],
+  "abbr": false
+ },
+ {
+  "word": "lengths",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   32
+  ],
+  "abbr": false
+ },
+ {
+  "word": "levels",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   58
+  ],
+  "abbr": false
+ },
+ {
+  "word": "lies",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   6
+  ],
+  "abbr": false
+ },
+ {
+  "word": "lightweight",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   119
+  ],
+  "abbr": false
+ },
+ {
+  "word": "line",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   26
+  ],
+  "abbr": false
+ },
+ {
+  "word": "linked",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "locked",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   44
+  ],
+  "abbr": false
+ },
+ {
+  "word": "locking",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   116
+  ],
+  "abbr": false
+ },
+ {
+  "word": "logics",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   58
+  ],
+  "abbr": false
+ },
+ {
+  "word": "longer",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   93
+  ],
+  "abbr": false
+ },
+ {
+  "word": "longest",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   73
+  ],
+  "abbr": false
+ },
+ {
+  "word": "low-level",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   26
+  ],
+  "abbr": false
+ },
+ {
+  "word": "low-randomness",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   45
+  ],
+  "abbr": false
+ },
+ {
+  "word": "macroscopic",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   75
+  ],
+  "abbr": false
+ },
+ {
+  "word": "macroscopically",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   16
+  ],
+  "abbr": false
+ },
+ {
+  "word": "mainstream",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   36
+  ],
+  "abbr": false
+ },
+ {
+  "word": "maintains",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   114
+  ],
+  "abbr": false
+ },
+ {
+  "word": "making",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   3
+  ],
+  "abbr": false
+ },
+ {
+  "word": "managing",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   108
+  ],
+  "abbr": false
+ },
+ {
+  "word": "mandates",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   57
+  ],
+  "abbr": false
+ },
+ {
+  "word": "mappings",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   61
+  ],
+  "abbr": false
+ },
+ {
+  "word": "marginal",
+  "cefr": 5,
+  "count": 1,
+  "sents": [
+   96
+  ],
+  "abbr": false
+ },
+ {
+  "word": "marks",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   27
+  ],
+  "abbr": false
+ },
+ {
+  "word": "mechanisms",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   83
+  ],
+  "abbr": false
+ },
+ {
+  "word": "meticulous",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   30
+  ],
+  "abbr": false
+ },
+ {
+  "word": "meticulously",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   54
+  ],
+  "abbr": false
+ },
+ {
+  "word": "minimizing",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   42
+  ],
+  "abbr": false
+ },
+ {
+  "word": "mitigate",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   104
+  ],
+  "abbr": false
+ },
+ {
+  "word": "mitigation",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   121
+  ],
+  "abbr": false
+ },
+ {
+  "word": "mode",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   36
+  ],
+  "abbr": false
+ },
+ {
+  "word": "mol",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   27
+  ],
+  "abbr": false
+ },
+ {
+  "word": "multi-dimensional",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   110
+  ],
+  "abbr": false
+ },
+ {
+  "word": "multi-value",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   69
+  ],
+  "abbr": false
+ },
+ {
+  "word": "multientity",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   58
+  ],
+  "abbr": false
+ },
+ {
+  "word": "names",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   65
+  ],
+  "abbr": false
+ },
+ {
+  "word": "near-saturation",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   92
+  ],
+  "abbr": false
+ },
+ {
+  "word": "necessity",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   35
+  ],
+  "abbr": false
+ },
+ {
+  "word": "need",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   4
+  ],
+  "abbr": false
+ },
+ {
+  "word": "negatives",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   71
+  ],
+  "abbr": false
+ },
+ {
+  "word": "non-thinking",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   36
+  ],
+  "abbr": false
+ },
+ {
+  "word": "nonecategory",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "nonerelative",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "normalization",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   27
+  ],
+  "abbr": false
+ },
+ {
+  "word": "notable",
+  "cefr": 5,
+  "count": 1,
+  "sents": [
+   105
+  ],
+  "abbr": false
+ },
+ {
+  "word": "notably",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   96
+  ],
+  "abbr": false
+ },
+ {
+  "word": "null",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   68
+  ],
+  "abbr": false
+ },
+ {
+  "word": "objectively",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   63
+  ],
+  "abbr": false
+ },
+ {
+  "word": "objectives",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   51
+  ],
+  "abbr": false
+ },
+ {
+  "word": "oficial",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   43
+  ],
+  "abbr": false
+ },
+ {
+  "word": "optimal",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   36
+  ],
+  "abbr": false
+ },
+ {
+  "word": "outputting",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   70
+  ],
+  "abbr": false
+ },
+ {
+  "word": "over-correction",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   106
+  ],
+  "abbr": false
+ },
+ {
+  "word": "overlap",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   72
+  ],
+  "abbr": false
+ },
+ {
+  "word": "oxidecas",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "pairs",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   59
+  ],
+  "abbr": false
+ },
+ {
+  "word": "parameter",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   45
+  ],
+  "abbr": false
+ },
+ {
+  "word": "parse",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   118
+  ],
+  "abbr": false
+ },
+ {
+  "word": "peak",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   107
+  ],
+  "abbr": false
+ },
+ {
+  "word": "penalize",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   74
+  ],
+  "abbr": false
+ },
+ {
+  "word": "performing",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   67
+  ],
+  "abbr": false
+ },
+ {
+  "word": "pharmacokinetics",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "phase",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   28
+  ],
+  "abbr": false
+ },
+ {
+  "word": "polishing",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   70
+  ],
+  "abbr": false
+ },
+ {
+  "word": "polygon",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   97
+  ],
+  "abbr": false
+ },
+ {
+  "word": "possesses",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   98
+  ],
+  "abbr": false
+ },
+ {
+  "word": "potential",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   8
+  ],
+  "abbr": false
+ },
+ {
+  "word": "precisely",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   42
+  ],
+  "abbr": false
+ },
+ {
+  "word": "predicted",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   67
+  ],
+  "abbr": false
+ },
+ {
+  "word": "prefaces",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   104
+  ],
+  "abbr": false
+ },
+ {
+  "word": "presented",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   84
+  ],
+  "abbr": false
+ },
+ {
+  "word": "preset",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   10
+  ],
+  "abbr": false
+ },
+ {
+  "word": "prioritize",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   52
+  ],
+  "abbr": false
+ },
+ {
+  "word": "prioritized",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   117
+  ],
+  "abbr": false
+ },
+ {
+  "word": "priority",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   54
+  ],
+  "abbr": false
+ },
+ {
+  "word": "procedures",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   63
+  ],
+  "abbr": false
+ },
+ {
+  "word": "profiles",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   110
+  ],
+  "abbr": false
+ },
+ {
+  "word": "progress",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "prone",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   10
+  ],
+  "abbr": false
+ },
+ {
+  "word": "properties",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   5
+  ],
+  "abbr": false
+ },
+ {
+  "word": "providing",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   116
+  ],
+  "abbr": false
+ },
+ {
+  "word": "python",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   26
+  ],
+  "abbr": false
+ },
+ {
+  "word": "python-based",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   23
+  ],
+  "abbr": false
+ },
+ {
+  "word": "qualitative",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   81
+  ],
+  "abbr": false
+ },
+ {
+  "word": "quantification",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   75
+  ],
+  "abbr": false
+ },
+ {
+  "word": "quantify",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   16
+  ],
+  "abbr": false
+ },
+ {
+  "word": "quantitative",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   101
+  ],
+  "abbr": false
+ },
+ {
+  "word": "quantitatively",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   72
+  ],
+  "abbr": false
+ },
+ {
+  "word": "randomness",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   115
+  ],
+  "abbr": false
+ },
+ {
+  "word": "ranging",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   92
+  ],
+  "abbr": false
+ },
+ {
+  "word": "rationale",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   21
+  ],
+  "abbr": false
+ },
+ {
+  "word": "real-world",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   81
+  ],
+  "abbr": false
+ },
+ {
+  "word": "reasoning",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   58
+  ],
+  "abbr": false
+ },
+ {
+  "word": "recall",
+  "cefr": 5,
+  "count": 1,
+  "sents": [
+   74
+  ],
+  "abbr": false
+ },
+ {
+  "word": "recognition",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   93
+  ],
+  "abbr": false
+ },
+ {
+  "word": "redundancy",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   58
+  ],
+  "abbr": false
+ },
+ {
+  "word": "refined",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   14
+  ],
+  "abbr": false
+ },
+ {
+  "word": "reflecting",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   79
+  ],
+  "abbr": false
+ },
+ {
+  "word": "registry",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   29
+  ],
+  "abbr": false
+ },
+ {
+  "word": "relevant",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   65
+  ],
+  "abbr": false
+ },
+ {
+  "word": "relied",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   7
+  ],
+  "abbr": false
+ },
+ {
+  "word": "remains",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   117
+  ],
+  "abbr": false
+ },
+ {
+  "word": "removing",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   26
+  ],
+  "abbr": false
+ },
+ {
+  "word": "replicates",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   42
+  ],
+  "abbr": false
+ },
+ {
+  "word": "reported",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   109
+  ],
+  "abbr": false
+ },
+ {
+  "word": "representations",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   27
+  ],
+  "abbr": false
+ },
+ {
+  "word": "reproducibility",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   43
+  ],
+  "abbr": false
+ },
+ {
+  "word": "reproducible",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   117
+  ],
+  "abbr": false
+ },
+ {
+  "word": "required",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   9
+  ],
+  "abbr": false
+ },
+ {
+  "word": "research",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   120
+  ],
+  "abbr": false
+ },
+ {
+  "word": "residual",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   26
+  ],
+  "abbr": false
+ },
+ {
+  "word": "retrieval",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   40
+  ],
+  "abbr": false
+ },
+ {
+  "word": "reveals",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   91
+  ],
+  "abbr": false
+ },
+ {
+  "word": "review",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   30
+  ],
+  "abbr": false
+ },
+ {
+  "word": "reviews",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "rigid",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   54
+  ],
+  "abbr": false
+ },
+ {
+  "word": "rises",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   103
+  ],
+  "abbr": false
+ },
+ {
+  "word": "schemas",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   42
+  ],
+  "abbr": false
+ },
+ {
+  "word": "scripts",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   26
+  ],
+  "abbr": false
+ },
+ {
+  "word": "selected",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   38
+  ],
+  "abbr": false
+ },
+ {
+  "word": "selecting",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   21
+  ],
+  "abbr": false
+ },
+ {
+  "word": "shields",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   58
+  ],
+  "abbr": false
+ },
+ {
+  "word": "shows",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   96
+  ],
+  "abbr": false
+ },
+ {
+  "word": "significantly",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   42
+  ],
+  "abbr": false
+ },
+ {
+  "word": "signifies",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   98
+  ],
+  "abbr": false
+ },
+ {
+  "word": "since",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "sources",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   55
+  ],
+  "abbr": false
+ },
+ {
+  "word": "spaces",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   67
+  ],
+  "abbr": false
+ },
+ {
+  "word": "stages",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   51
+  ],
+  "abbr": false
+ },
+ {
+  "word": "standardizing",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   27
+  ],
+  "abbr": false
+ },
+ {
+  "word": "standards",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   65
+  ],
+  "abbr": false
+ },
+ {
+  "word": "std",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   109
+  ],
+  "abbr": false
+ },
+ {
+  "word": "steer",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   50
+  ],
+  "abbr": false
+ },
+ {
+  "word": "structures",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   37
+  ],
+  "abbr": false
+ },
+ {
+  "word": "subsequence",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   73
+  ],
+  "abbr": false
+ },
+ {
+  "word": "subsequently",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   27
+  ],
+  "abbr": false
+ },
+ {
+  "word": "suggesting",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   96
+  ],
+  "abbr": false
+ },
+ {
+  "word": "summarized",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   101
+  ],
+  "abbr": false
+ },
+ {
+  "word": "supervision",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   2
+  ],
+  "abbr": false
+ },
+ {
+  "word": "suppress",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   15
+  ],
+  "abbr": false
+ },
+ {
+  "word": "suppresses",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   116
+  ],
+  "abbr": false
+ },
+ {
+  "word": "surge",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   103
+  ],
+  "abbr": false
+ },
+ {
+  "word": "symbolic",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   96
+  ],
+  "abbr": false
+ },
+ {
+  "word": "symbols",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   27
+  ],
+  "abbr": false
+ },
+ {
+  "word": "synthesis",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   87
+  ],
+  "abbr": false
+ },
+ {
+  "word": "systematically",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   23
+  ],
+  "abbr": false
+ },
+ {
+  "word": "tags",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   26
+  ],
+  "abbr": false
+ },
+ {
+  "word": "tasks",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   15
+  ],
+  "abbr": false
+ },
+ {
+  "word": "techniques",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   6
+  ],
+  "abbr": false
+ },
+ {
+  "word": "template",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   54
+  ],
+  "abbr": false
+ },
+ {
+  "word": "text-to-json",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   59
+  ],
+  "abbr": false
+ },
+ {
+  "word": "time-consuming",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   3
+  ],
+  "abbr": false
+ },
+ {
+  "word": "token",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   39
+  ],
+  "abbr": false
+ },
+ {
+  "word": "tokens",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   44
+  ],
+  "abbr": false
+ },
+ {
+  "word": "trade",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   1
+  ],
+  "abbr": false
+ },
+ {
+  "word": "transition",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   103
+  ],
+  "abbr": false
+ },
+ {
+  "word": "triage",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   3
+  ],
+  "abbr": false
+ },
+ {
+  "word": "ultra-long-context",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   40
+  ],
+  "abbr": false
+ },
+ {
+  "word": "underestimating",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   71
+  ],
+  "abbr": false
+ },
+ {
+  "word": "undergoes",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   30
+  ],
+  "abbr": false
+ },
+ {
+  "word": "unified",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   63
+  ],
+  "abbr": false
+ },
+ {
+  "word": "unifies",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   55
+  ],
+  "abbr": false
+ },
+ {
+  "word": "unifying",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   26
+  ],
+  "abbr": false
+ },
+ {
+  "word": "uniqueness",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   64
+  ],
+  "abbr": false
+ },
+ {
+  "word": "units",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   27
+  ],
+  "abbr": false
+ },
+ {
+  "word": "unmentioned",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   57
+  ],
+  "abbr": false
+ },
+ {
+  "word": "valid",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   33
+  ],
+  "abbr": false
+ },
+ {
+  "word": "validating",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   35
+  ],
+  "abbr": false
+ },
+ {
+  "word": "variables",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   89
+  ],
+  "abbr": false
+ },
+ {
+  "word": "variance",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   117
+  ],
+  "abbr": false
+ },
+ {
+  "word": "variations",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   71
+  ],
+  "abbr": false
+ },
+ {
+  "word": "vertical",
+  "cefr": 5,
+  "count": 1,
+  "sents": [
+   121
+  ],
+  "abbr": false
+ },
+ {
+  "word": "whitespaces",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   26
+  ],
+  "abbr": false
+ },
+ {
+  "word": "will",
+  "cefr": 4,
+  "count": 1,
+  "sents": [
+   71
+  ],
+  "abbr": false
+ },
+ {
+  "word": "workflow",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   22
+  ],
+  "abbr": false
+ },
+ {
+  "word": "yielding",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   30
+  ],
+  "abbr": false
+ },
+ {
+  "word": "zeroinference",
+  "cefr": "外",
+  "count": 1,
+  "sents": [
+   121
+  ],
+  "abbr": false
+ }
+]
