@@ -329,7 +329,7 @@
  },
  {
   "id": 83,
-  "text": "TABLE I Single-Sample Extraction Comparison: LLM vs. Human Annotation (Case: Acipimox) <table><tr><td>Extraction Target</td><td>Content Display</td></tr><tr><td>Raw Input Text</td><td>Extract substance information from the following text: Acipimox is a nicotinic acid derivative with fewer side effects than nicotinic acid."
+  "text": "TABLE I Single-Sample Extraction Comparison: LLM vs. Human Annotation (Case: Acipimox)"
  },
  {
   "id": 84,
@@ -337,7 +337,7 @@
  },
  {
   "id": 85,
-  "text": "Since dyslipidemia is inevitably linked to diseases such as atherosclerosis, diabetes, and hypertension, this paper reviews the synthesis, pharmacokinetics, and application progress of acipimox for a better understanding of the drug.</td></tr><tr><td>Ground Truth</td><td>Name: 阿昔莫司English Name: NoneRelative Molecular Mass: NoneCategory or Function: Nicotinic acid derivative; Inhibits free fatty acid release from adipose tissue.Chemical Formula or Composition: 5-methylpyrazine-2-carboxylic acid 4-oxideCAS: None</td></tr><tr><td>Model Output</td><td>“Name”: [“阿昔莫司”],“English Name”: [“None”],“Relative Molecular Mass”: [“None”],“Category or Function”: [“Nicotinic acid derivative”, “Inhibit free fatty acid release from adipose tissue”, “Hypolipidemic drug”],“Chemical Formula or Composition”: [“5-methylpyrazine-2-carboxylic acid 4-oxide”],“CAS”: [“None”]</td></tr></table> B."
+  "text": "Since dyslipidemia is inevitably linked to diseases such as atherosclerosis, diabetes, and hypertension, this paper reviews the synthesis, pharmacokinetics, and application progress of acipimox for a better understanding of the drug.Ground TruthName: 阿昔莫司English Name: NoneRelative Molecular Mass: NoneCategory or Function: Nicotinic acid derivative; Inhibits free fatty acid release from adipose tissue.Chemical Formula or Composition: 5-methylpyrazine-2-carboxylic acid 4-oxideCAS: NoneModel Output“Name”: [“阿昔莫司”],“English Name”: [“None”],“Relative Molecular Mass”: [“None”],“Category or Function”: [“Nicotinic acid derivative”, “Inhibit free fatty acid release from adipose tissue”, “Hypolipidemic drug”],“Chemical Formula or Composition”: [“5-methylpyrazine-2-carboxylic acid 4-oxide”],“CAS”: [“None”] B."
  },
  {
   "id": 86,
@@ -425,7 +425,7 @@
  },
  {
   "id": 107,
-  "text": "TABLE II Ablation Study Results on Core Extraction Fields (Overall scores are reported as Mean Std % over 5 independent runs) <table><tr><td>Target Field</td><td>Metric</td><td>Baseline Prompt</td><td>Partial Prompt</td><td>Full Prompt (Ours)</td></tr><tr><td>Name</td><td>Exact Match</td><td>0.33%</td><td>80.80%</td><td>81.14%</td></tr><tr><td>English Name</td><td>Exact Match</td><td>49.16%</td><td>72.71%</td><td>75.65%</td></tr><tr><td>Relative Molecular Mass</td><td>Exact Match</td><td>95.99%</td><td>97.12%</td><td>98.80%</td></tr><tr><td>Chemical Formula or Composition</td><td>Exact Match</td><td>58.53%</td><td>51.77%</td><td>59.13%</td></tr><tr><td>CAS Number</td><td>Exact Match</td><td>99.33%</td><td>99.40%</td><td>99.67%</td></tr><tr><td>Category or Function</td><td>ROUGE-L</td><td>5.12%</td><td>47.39%</td><td>50.99%</td></tr><tr><td>Overall Score (S_global)</td><td>-</td><td>51.41 ± 0.09%</td><td>74.86 ± 0.24%</td><td>77.56 ± 0.13%</td></tr></table> Fig. 3."
+  "text": "TABLE II Ablation Study Results on Core Extraction Fields (Overall scores are reported as Mean Std % over 5 independent runs)"
  },
  {
   "id": 108,
