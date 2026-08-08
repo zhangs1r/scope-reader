@@ -4,7 +4,7 @@
 
 ## 这是什么
 
-- 论文全文 **123 句**按顺序拆开，每句配 **qwen3-tts 英文朗读**（女生主持音色）
+- 论文全文 **121 句**按顺序拆开，每句配 **qwen3-tts 英文朗读**（女生主持音色）
 - 句子里的**生词**按 CET4（CEFR B1）水平自动标注，点词弹出详解：音标 / 词性 / 释义 / 搭配 / 词族 / 记忆提示 / 例句
 - 生词**也能点朗读**，跟读练习全覆盖
 
@@ -28,8 +28,8 @@
 
 ## 数据
 
-- `data/sentences.json` — 123 句原文（MinerU 从 PDF 转换）
-- `data/words.json` — 118 个生词详解（CET4 标注，CEFR 词表对照）
+- `data/sentences.json` — 121 句原文（MinerU 从 PDF 转换）
+- `data/words.json` — 111 个生词详解（CET4 标注，CEFR 词表对照）
 - `data/translations.json` — 中文翻译
 - `audio/sent/` — 句子朗读 mp3（qwen3-tts 生成）
 - `audio/word/` — 单词朗读 mp3

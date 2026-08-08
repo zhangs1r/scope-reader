@@ -825,17 +825,6 @@
   "cefr": "C1"
  },
  {
-  "word": "demarcate",
-  "phonetic": "/ˈdiːmɑːkeɪt/",
-  "pos": "v.",
-  "meaning": "划界，区分",
-  "example": "——",
-  "usage": "demarcate the boundary 划分边界",
-  "family": "demarcation n. 分界",
-  "note": "论文高频学术词：明确划分",
-  "cefr": "外"
- },
- {
   "word": "equitable",
   "phonetic": "/ˈekwɪtəbl/",
   "pos": "adj.",
@@ -968,17 +957,6 @@
   "cefr": "C1"
  },
  {
-  "word": "hallucinate",
-  "phonetic": "/həˈluːsɪneɪt/",
-  "pos": "v.",
-  "meaning": "产生幻觉（AI 编造内容）",
-  "example": "mitigates model hallucination",
-  "usage": "——",
-  "family": "hallucination n. 幻觉",
-  "note": "hallucination 的动词形式",
-  "cefr": "C1"
- },
- {
   "word": "overlap",
   "phonetic": "/ˌəʊvəˈlæp/",
   "pos": "v./n.",
@@ -1056,17 +1034,6 @@
   "cefr": "C1"
  },
  {
-  "word": "discrepancy",
-  "phonetic": "/dɪsˈkrepənsi/",
-  "pos": "n.",
-  "meaning": "差异，不一致",
-  "example": "——",
-  "usage": "discrepancy between 两者间的差异",
-  "family": "discrepant adj. 有差异的",
-  "note": "dis-（分开）+ crep（响）→ 对不上号",
-  "cefr": "C1"
- },
- {
   "word": "quantitative",
   "phonetic": "/ˈkwɒntɪtətɪv/",
   "pos": "adj.",
@@ -1078,17 +1045,6 @@
   "cefr": "C1"
  },
  {
-  "word": "abstain",
-  "phonetic": "/əbˈsteɪn/",
-  "pos": "v.",
-  "meaning": "放弃，避免",
-  "example": "——",
-  "usage": "abstain from 避免",
-  "family": "abstention n. 弃权",
-  "note": "学术写作\"不做某事\"的正式说法",
-  "cefr": "C1"
- },
- {
   "word": "surge",
   "phonetic": "/sɜːdʒ/",
   "pos": "n./v.",
@@ -1097,28 +1053,6 @@
   "usage": "a surge in demand 需求激增",
   "family": "——",
   "note": "surge = 突然大幅上涨",
-  "cefr": "C1"
- },
- {
-  "word": "paradox",
-  "phonetic": "/ˈpærədɒks/",
-  "pos": "n.",
-  "meaning": "悖论",
-  "example": "——",
-  "usage": "——",
-  "family": "paradoxical adj. 矛盾的",
-  "note": "看似矛盾却成立的说法",
-  "cefr": "C1"
- },
- {
-  "word": "negligible",
-  "phonetic": "/ˈneɡlɪdʒəbl/",
-  "pos": "adj.",
-  "meaning": "可忽略的，微不足道的",
-  "example": "negligible difference",
-  "usage": "negligible impact 微不足道的影响",
-  "family": "neglect v. 忽视；negligence n. 疏忽",
-  "note": "neglig-（忽视）+ -ible（可……的）",
   "cefr": "C1"
  },
  {
@@ -1153,17 +1087,6 @@
   "family": "——",
   "note": "没处理过的原始数据",
   "cefr": "B2"
- },
- {
-  "word": "abstraction",
-  "phonetic": "/æbˈstrækʃn/",
-  "pos": "n.",
-  "meaning": "抽象，抽象概念",
-  "example": "——",
-  "usage": "——",
-  "family": "abstract adj. 抽象的；abstractive adj. 抽象的",
-  "note": "把具体东西概括成概念",
-  "cefr": "C1"
  },
  {
   "word": "concise",
@@ -1265,14 +1188,14 @@
   "cefr": "C1"
  },
  {
-  "word": "degrade",
-  "phonetic": "/dɪˈɡreɪd/",
-  "pos": "v.",
-  "meaning": "降低，退化",
-  "example": "——",
-  "usage": "degrade performance 降低性能",
-  "family": "degradation n. 退化",
-  "note": "de-（向下）+ grade（级别）→ 降级",
+  "word": "degradation",
+  "phonetic": "/ˌdeɡrəˈdeɪʃn/",
+  "pos": "n.",
+  "meaning": "退化，降低",
+  "example": "Degradation of average entity density as text length increases.",
+  "usage": "degradation of performance 性能下降",
+  "family": "degrade v. 退化；degraded adj. 退化的",
+  "note": "de-（向下）+ grade（级别）→ 级别往下走 = 退化",
   "cefr": "C1"
  },
  {
