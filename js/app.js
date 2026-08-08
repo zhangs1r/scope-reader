@@ -30,7 +30,7 @@ const els = {
   reviewBtn: $('#reviewBtn'),
 };
 
-let sents = [], words = [], trans = {}, wordMap = {};  // word -> 详解
+let sents = [], words = [], trans = {}, notes = {}, wordMap = {};  // word -> 详解
 let current = 0;          // 当前句 index
 let audio = null;         // 当前 Audio
 let playingId = null;     // 正在播放的句子 id
@@ -42,15 +42,17 @@ const LS_KEY = 'paperEcho_v1';
 
 /* ---------- 数据 ---------- */
 async function loadData() {
-  const [s, w, t] = await Promise.all([
+  const [s, w, t, n] = await Promise.all([
     fetch('data/sentences.json').then(r => r.json()),
     fetch('data/words.json').then(r => r.json()),
     fetch('data/translations.json').then(r => r.json()).catch(() => []),
+    fetch('data/notes.json').then(r => r.json()).catch(() => ({})),
   ]);
   sents = s;
   words = w;
   words.forEach(x => { wordMap[x.word.toLowerCase()] = x; });
   (t || []).forEach(x => { trans[x.id] = x.cn; });
+  notes = n || {};
   // 单词词形变体（用于高亮匹配）
   words.forEach(x => {
     x.forms = formsOf(x.word);
@@ -108,6 +110,12 @@ function render() {
       </div>
       <div class="sent-text">${highlight(s.text)}</div>
       ${trans[s.id] ? `<div class="sent-cn">${esc(trans[s.id])}</div>` : ''}
+      ${notes[s.id] ? `<div class="sent-note">
+        <div class="note-head"><span class="note-badge">💡 精讲</span>
+          <button class="mini-btn" data-ncopy="${s.id}" title="复制讲解">⧉ 复制</button>
+        </div>
+        <div class="note-text">${esc(notes[s.id])}</div>
+      </div>` : ''}
       ${wl.length ? `<div class="sent-words">${wl.map(w => `<span class="word-chip" data-word="${esc(w)}">${esc(w)}</span>`).join('')}</div>` : ''}
       <div class="sent-actions">
         <button class="play-btn" data-play="${s.id}">🔊 跟读</button>
@@ -240,6 +248,20 @@ function playWord(word) {
   a.play().catch(() => alert('单词音频缺失（生成中？）'));
 }
 
+/* ---------- 论文精讲 ---------- */
+function copyText(txt) {
+  const fallback = () => {
+    const ta = document.createElement('textarea');
+    ta.value = txt; ta.style.position = 'fixed'; ta.style.opacity = '0';
+    document.body.appendChild(ta); ta.select();
+    try { document.execCommand('copy'); } catch (e) {}
+    document.body.removeChild(ta);
+  };
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(txt).catch(fallback);
+  } else fallback();
+}
+
 /* ---------- 复习本 ---------- */
 function getReview() {
   try { return JSON.parse(localStorage.getItem(LS_KEY) || '{"read":[],"known":{},"unknown":{}}'); } catch { return { read: [], known: {}, unknown: {} }; }
@@ -341,6 +363,9 @@ function bind() {
       if (loopId === id) playSent(id);
       return;
     }
+    // 精讲：复制
+    const nc = t.closest('[data-ncopy]');
+    if (nc) { copyText(notes[+nc.dataset.ncopy] || ''); toast('讲解已复制 ✓'); return; }
     // 录音播放/删除
     const pp = t.closest('[data-pp]');
     if (pp) { const a = new Audio(pp.dataset.url); a.play(); return; }

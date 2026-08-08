@@ -11,6 +11,7 @@
   --border: #e4e0d6;
   --shadow: 0 2px 10px rgba(0,0,0,.06);
   --radius: 14px;
+  --note-bg: #fdf6ec; --note-border: #d98e2b; --note-ink: #5a4a32;
   --font: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
 }
 [data-theme="dark"] {
@@ -24,6 +25,7 @@
   --hl-soft: #33271c;
   --border: #33373b;
   --shadow: 0 2px 10px rgba(0,0,0,.35);
+  --note-bg: #2c2417; --note-border: #d98e2b; --note-ink: #e0cba8;
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
@@ -127,6 +129,18 @@ body {
   display: none;
 }
 .sent-card.show-cn .sent-cn { display: block; }
+
+/* 精讲批注（穿插在句子卡片里） */
+.sent-note {
+  margin-top: 10px; padding: 10px 12px;
+  background: var(--note-bg);
+  border-left: 3px solid var(--note-border);
+  border-radius: 0 10px 10px 0;
+  font-size: 13.5px; line-height: 1.7; color: var(--note-ink);
+}
+.note-head { display: flex; align-items: center; gap: 8px; margin-bottom: 4px; }
+.note-badge { font-size: 11px; font-weight: 700; color: var(--note-border); letter-spacing: 1px; }
+.note-text { font-size: 13.5px; line-height: 1.7; color: var(--note-ink); }
 
 /* 生词 chips */
 .sent-words { margin-top: 10px; display: flex; flex-wrap: wrap; gap: 6px; }
